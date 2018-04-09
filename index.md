@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/idotrick/health/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/idotrick/health/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>අමතර බර අඩු කර ගමු - Weight reduction</title>
+</head>
+<body>
+	<ol>
+	<li><a href="http://www.idotrick.com/health/health-wl-01">මහත නම් ඔබ ලෙඩෙක්‌.</a></li>
+	<li><a href="http://www.idotrick.com/health/health-wl-02">අඩු කර ගන්න පණ යන තරම් අමාරු බර</a></li>
+	<li><a href="http://www.idotrick.com/health/health-wl-03">බර අඩු කර ගැනීමට වීර්යය වැඩීම</a></li>
+	<li><a href="http://www.idotrick.com/health/health-wl-04">බර අඩු කරගන්නආහාර පාලනය කර ගන්න...</a></li>
+	<li><a href="http://www.idotrick.com/health/health-wl-05">තෙල් සහ මේදය අධිකව ඇති සිහිනෙන්වත් නොසිතන ආහාර</a></li>
+	<li><a href="http://www.idotrick.com/health/health-wl-06">අපි බොන පැණි බීම පළතුරු බීමවල වැඩිපුරම තිබුණේ සීනිද?</a></li>
+	<li><a href="http://www.idotrick.com/health/health-wl-07">සීනි තිත්තෙන් නොමැරී තැඹිලිවල දිව්‍යමය රස සමග ජීවත් වන්න</a></li>
+	<li><a href="http://www.idotrick.com/health/health-wl-08">බත් කෑවත් සිහියෙන් කන්න</a></li>
+	<li><a href="http://www.idotrick.com/health/health-wl-09">අඬු කෝප්පය ඔබේ ගැලවුම්කාරයා කරගන්න</a></li>
+	<li><a href="http://www.idotrick.com/health/health-wl-10">කනකොට එන කෑම ප්‍රශ්න ඇති විය හැකි ප්‍රශ්න හා ඒවාට පිළිතුරු.</a></li>
+	<li><a href="http://www.idotrick.com/health/health-wl-11">ආහාර පාලනයෙන් සහ ව්‍යායාම වලින් ඈත් නොවීමට නම්</a></li>
+	<li><a href="http://www.idotrick.com/health/health-wl-12">ව්‍යායාම සහ ක්‍රීඩා පිළිබඳ වැරදි ආකල්ප</a></li>	
+	</ol>	
+</body>
+</html>
